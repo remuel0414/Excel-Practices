@@ -2,12 +2,13 @@
 
 This repository contains my beginner-level Excel practice files, where I practiced basic formulas, data cleaning, formatting, pivot tables, and simple real-world datasets.
 
-📂 Files Overview
-File Name	Description
-📝 Basic Skills.xlsx	Practice file for core Excel skills: aggregations, INDEX/MATCH, IF functions, data cleaning, formatting, string functions, pivot tables, goal seek.
-📝 BasicSkills Refresh.xlsx	Refresher of Basic Skills.xlsx to reinforce beginner-level Excel skills.
-📊 Customer Orders.xlsx	First experience with a real-world dataset. See detailed tasks below.
-💼 Salary Survey.xlsx	Beginner-level salary analysis. See detailed tasks below.
+| File Name                     | Description                                                                                                                                             |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📝 `Basic Skills.xlsx`        | Practice file for core Excel skills: **aggregations, INDEX/MATCH, IF functions, data cleaning, formatting, string functions, pivot tables, goal seek**. |
+| 📝 `BasicSkills Refresh.xlsx` | Refresher of `Basic Skills.xlsx` to reinforce beginner-level Excel skills.                                                                              |
+| 📊 `Customer Orders.xlsx`     | First experience with a **real-world dataset**. See detailed tasks below.                                                                               |
+| 💼 `Salary Survey.xlsx`       | Beginner-level salary analysis. See detailed tasks below.                                                                                               |
+
 📌 Customer Orders Details
 
 Cleaned and validated data
